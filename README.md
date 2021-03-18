@@ -1,4 +1,4 @@
-# Historias Engenharia CEFET Petropolis
+# Historias Engenharia de Computação CEFET Petropolis
 
 Esse repositório tem como objetivo compartilhar as histórias mais icônicas e hilárias de nossos professores com alunos na sala de aula! 
 
